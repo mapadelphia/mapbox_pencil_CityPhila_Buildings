@@ -1,0 +1,26 @@
+_prefs: 
+  saveCenter: false
+_properties: {}
+attribution: "<a href='http://mapbox.com/about/maps' target='_blank'>Terms & Feedback</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -75.1865
+  - 39.9677
+  - 16
+description: 'Fairmount Waterworks basemap using 2B graphite on acid-free paper mapbox design. '
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 20
+minzoom: 12
+name: Fairmount Waterworks Basemap
+source: "mapbox:///mapbox.mapbox-terrain-v1,mapbox.mapbox-streets-v5,azavea.5yuy2e29,azavea.ui110pb9"
+styles: 
+  - style.mss
+  - road.mss
+  - terrain.mss
+template: ''
